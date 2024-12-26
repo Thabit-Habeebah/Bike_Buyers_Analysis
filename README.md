@@ -1,4 +1,4 @@
-# Welfare_Analysis
+# BIKE_SALES_ANALYSIS
 
 ## Project Overview
 This project shows welfare of a quite number of individuals as to the income they earn,their level of education,marital status,the number of cars and houses they own among others.This analysis gives us an insight into the relationship between the number of cars each individual own and the distance to and from their place of work,the average income by education and many others.
