@@ -7,13 +7,13 @@ This project shows welfare of a quite number of individuals as to the income the
 The main source of ths data is Kaggle [Download Here] (https://www.kaggle.com/datasets)
 
 This data contains the following columns:
-   * Customer ID: This an identification number which is peculiar to each person 
+   * Customer ID: This an identification number which is peculiar to each person.
    * Marital Status
    * Income : This indicates the income earned by each individual which ranges between #30,000 and #170,000.
    * Children: This contains the total number of children each individual has.
    * Education : This shows whether the indidvivual holds a Bachelor's degree, Graduate degree(Not Specified),just a college or high school student.
    * Occupation : It shows the occupation of each individual such as a manual or skilled labour,clerical staff,a manager or a professional in his field of work.
-   * Home_Owner and Cars : It indicates whether suc individaul possesses a house and a car or not
+   * Home_Owner and Cars : It indicates whether suc individaul possesses a house and a car or not.
    * Commute Distance : It tells us the distance to and from his/her place of work.
    * Region : This contain information on th region each individual lived.
    * Age : The age ranges between 25 and 89.
@@ -24,18 +24,18 @@ This data contains the following columns:
 
  * Microsoft Excel
 
-   * For data loading and cleaning
+   * For data loading and cleaning.
 
  * Structure Query Language (SQL)
 
-    * For data querying and data cleaning
+    * For data querying and data cleaning.
  * Micosoft Power BI
 
      * For data visualization
 
 ##  Data Cleaning 
-This involves the following steps
-  1. Data loading : This has to do with loading the dataset into excel for analysis
+This involves the following steps;
+  1. Data loading : This has to do with loading the dataset into excel for analysis.
   2. Removing duplicates : The very next thing to do after loading your data is to remove duplicates so as to make your analysis accurate.I used ALT+H+I+O to adjust the coulmns then AT+A+M to remove duplicate.
   3. Handling missing data: I made use of Power BI as well as SQL to fill in blank spaces.
 
@@ -125,7 +125,7 @@ GROUP BY Income_Range
 
 ##   Data Visualization
 
-![Bike Sales Dashboard 1_page-0001](https://github.com/user-attachments/assets/93a1bfe1-651d-45f5-9820-d1913f3b231b)
+![Bike Buyers Dashboard 1_page-0001](https://github.com/user-attachments/assets/23a31200-32de-425d-b82f-d09c56466e90)
+
 
 ## Concluison
-From the a this analysis, it shows that the total number people that taken into consideration is 498 while that of the female is 487 ,the average income each individual made is #56,152 while managemnet made the highest income whihc
