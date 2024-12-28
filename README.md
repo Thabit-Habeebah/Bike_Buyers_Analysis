@@ -1,7 +1,9 @@
 # BIKE_ BUYERS_ANALYSIS
 
 ## Project Overview
-This project shows welfare of a quite number of individuals as to the income they earn,their level of education,marital status,the number of cars and houses they own among others.This analysis gives us an insight into the relationship between the number of cars each individual own and the distance to and from their place of work,the average income base on their level of education and many others.
+This project shows welfare of a quite number of individuals as to the income they earn,their level of education,marital status,the number of cars and houses they own among others.
+
+This analysis gives us an insight into the relationship between the number of cars each individual own and the distance to and from their place of work,the average income base on their level of education and many others.
 
 ## Data Source and Content
 The main source of ths data is Kaggle [Download Here] (https://www.kaggle.com/datasets)
@@ -13,11 +15,11 @@ This data contains the following columns:
    * Children: This contains the total number of children each individual has.
    * Education : This shows whether the indidvivual holds a Bachelor's degree, Graduate degree(Not Specified),just a college or high school student.
    * Occupation : It shows the occupation of each individual such as a manual or skilled labour,clerical staff,a manager or a professional in his field of work.
-   * Home_Owner and Cars : It indicates whether suc individaul possesses a house and a car or not.
+   * Home_Owner and Cars : It indicates whether such individual possesses a house and a car or not.
    * Commute Distance : It tells us the distance to and from his/her place of work.
    * Region : This contain information on th region each individual lived.
    * Age : The age ranges between 25 and 89.
-   * Age_Range: This a calculated column i created from the "Age" column so as to make categorization easier.
+   * Age_Range: This a calculated column created from the "Age" column so as to make categorization easier.
    * Income_ Range : This is also a calculated column created from "Income" column so as to make categorization and comparison easier.
 
 ## Tools Used
@@ -129,3 +131,4 @@ GROUP BY Income_Range
 
 
 ## Concluison
+From the analysis above, it has shown that the total number of people taken into consideraton is 985. Out of this 985, we have 487 females and 498 males both with an average age of 44 years. The total regions included are Europe, North America and Pacific with North America having the highest population which is 508
