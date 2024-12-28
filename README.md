@@ -3,7 +3,7 @@
 ## Project Overview
 This project shows welfare of a quite number of individuals as to the income they earn,their level of education,marital status,the number of cars and houses they own among others.
 
-This analysis gives us an insight into the relationship between the number of cars each individual own and the distance to and from their place of work,the average income base on their level of education and many others.
+This analysis gives us an insight into the relationship between the number bike each individual purchase and the distance to and from their place of work,the average income base on their level of education and many others.
 
 ## Data Source and Content
 The main source of ths data is Kaggle [Download Here] (https://www.kaggle.com/datasets)
