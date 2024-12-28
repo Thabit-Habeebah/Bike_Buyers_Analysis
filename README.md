@@ -130,5 +130,5 @@ GROUP BY Income_Range
 ![Bike Buyers Dashboard 1_page-0001](https://github.com/user-attachments/assets/23a31200-32de-425d-b82f-d09c56466e90)
 
 
-## Concluison
+## Conclusion
 From the analysis above, it has shown that the total number of people taken into consideraton is 985. Out of this 985, we have 487 females and 498 males both with an average age of 44 years. The total regions included are Europe, North America and Pacific with North America having the highest population which is 508
