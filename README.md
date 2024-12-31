@@ -131,4 +131,5 @@ GROUP BY Income_Range
 
 
 ## Conclusion
-From the analysis above, it has shown that the total number of people taken into consideraton is 985. Out of this 985, we have 487 females and 498 males both with an average age of 44 years. The total regions included are Europe, North America and Pacific with North America having the highest population which is 508
+From the analysis above,it has shown on the graph that people who live 0-1 miles away from there place of work purchased the highest number of bikes because they contibute 19.9%  out of 48.12 % that purchased a bike this could be because of their population. The average income of a manager is #87,000 which is the highest then the second highest is the professors who receive on average #75,000 this might be because of the level of knowlegde over the years compared to the clerical staffs, skilled manual and the manual labourers.
+
